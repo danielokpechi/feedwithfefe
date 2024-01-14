@@ -214,7 +214,7 @@ figure {
 }
 .fh5co-cover .desc h2 {
   color: #fff;
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
   font-size: 60px;
   margin-bottom: 10px;
   font-weight: 300 !important;
@@ -1480,3 +1480,5 @@ figure {
       height: auto;
   }
 }
+/* Add this to your existing CSS or create a new CSS file */
+
